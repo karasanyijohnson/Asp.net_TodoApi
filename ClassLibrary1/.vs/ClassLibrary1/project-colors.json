@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08569925-0408-42a4-8d38-2a8fd2268888": {
+      "ProjectGuid": "08569925-0408-42a4-8d38-2a8fd2268888",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "e7742f50-5584-4c82-9c0a-5e34b2b15507": {
+      "ProjectGuid": "e7742f50-5584-4c82-9c0a-5e34b2b15507",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
